@@ -1,6 +1,6 @@
 # 💎 Kent0011
 <p align="left"> 
-  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kent0011&layout=compact" />
+  <img alt="Top Langs" height="160px" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kent0011&layout=compact" />
   <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=Kent0011&count_private=true&hide=stars&show_icons=true" />
 </p>
 
