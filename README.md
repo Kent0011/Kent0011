@@ -10,7 +10,11 @@
 </p>
 
 ### 🛠️ Skill Set
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,react,ruby,rails,swift,c,html,css,bootstrap,mui,docker,git,github,githubactions,vercel,heroku,vscode&perline=9)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,typescript,react,ruby,rails,swift,c,html,css,bootstrap,mui,docker,git,github,githubactions,vercel,heroku,vscode&perline=9">
+  </a>
+</p>
 
 
 ## 🌏 About
