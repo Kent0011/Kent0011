@@ -3,9 +3,6 @@
   <a href="https://github.com/Kent0011/Kent0011">
     <img src="https://komarev.com/ghpvc/?username=Kent0011" alt="Kent0011" />
   </a>
-  <a href="https://github.com/Kent0011">
-    <img height="20" src="https://img.shields.io/github/followers/Kent0011?label=follow&logo=github&style=flat" />
-  </a>
 </p>
 <p align="left"> 
   <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kent0011&layout=compact" />
