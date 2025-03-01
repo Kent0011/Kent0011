@@ -1,10 +1,18 @@
 # 💎 Kent0011
+<p align="left">
+  <a href="https://github.com/Kent0011/Kent0011">
+    <img src="https://komarev.com/ghpvc/?username=Kent0011" alt="Kent0011" />
+  </a>
+  <a href="https://github.com/Kent0011">
+    <img height="20" src="https://img.shields.io/github/followers/Kent0011?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 <p align="left"> 
-  <img alt="Top Langs" height="160px" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kent0011&layout=compact" />
+  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kent0011&layout=compact" />
   <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=Kent0011&count_private=true&hide=stars&show_icons=true" />
 </p>
 
-## 🛠️ Skill Set
+### 🛠️ Skill Set
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,react,ruby,rails,swift,c,html,css,bootstrap,mui,docker,git,github,githubactions,vercel,heroku,vscode&perline=9)](https://skillicons.dev)
 
 
@@ -15,7 +23,7 @@
 
 ## 📨 Contact
 📧 e-mail : key7135g@gmail.com  
-⚔️ X : @Kent_0011
+⚔️ X : @kent_0011
 
 <!--
 **Kent0011/Kent0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
