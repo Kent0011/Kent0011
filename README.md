@@ -1,4 +1,5 @@
-# 💎 Kent0011
+# 💎 Kent0011's Profile
+## 📊 Summary
 <p align="left">
   <a href="https://github.com/Kent0011/Kent0011">
     <img src="https://komarev.com/ghpvc/?username=Kent0011" alt="Kent0011" />
@@ -15,7 +16,6 @@
     <img src="https://skillicons.dev/icons?i=python,typescript,react,ruby,rails,swift,c,html,css,bootstrap,mui,docker,git,github,githubactions,vercel,heroku,vscode&perline=9">
   </a>
 </p>
-
 
 ## 🌏 About
 🇯🇵 Japanese Born in 2003  
