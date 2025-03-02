@@ -18,25 +18,11 @@
 
 
 ## 🌏 About
-🏫 a Master Student in Kobe University  
-🎸 a Guitarist in bottlediver, Rock Band in Japan  
-🧑‍💻 a Hobby Programmer  
+🇯🇵 Japanese Born in 2003  
+🏫 Master Student in Kobe University  
+🎸 Guitarist in bottlediver, Rock Band in Japan  
+🧑‍💻 Hobby Programmer  
 
 ## 📨 Contact
 📧 e-mail : key7135g@gmail.com  
 ⚔️ X : @kent_0011
-
-<!--
-**Kent0011/Kent0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
