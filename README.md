@@ -24,5 +24,5 @@
 🧑‍💻 Hobby Programmer  
 
 ## 📨 Contact
-📧 e-mail : key7135g@gmail.com  
-⚔️ X : @kent_0011
+E-mail : key7135g@gmail.com  
+X : @kent_0011
