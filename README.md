@@ -18,8 +18,8 @@
 </p>
 
 ## 🌏 About
-🇯🇵 Japanese Born in 2003  
-🏫 Master Student in Kobe University  
+🇯🇵 Japanese Born in January 2003  
+🏫 Master Student in Kobe University (Computer Science)   
 🎸 Guitarist in bottlediver, Rock Band in Japan  
 🧑‍💻 Hobby Programmer  
 
