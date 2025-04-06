@@ -13,7 +13,7 @@
 <h3 align="center">🛠️ Skill Set</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,react,ruby,rails,flutter,dart,swift,c,html,css,bootstrap,mui,docker,git,github,githubactions,vercel,heroku,vscode&perline=10">
+    <img src="https://skillicons.dev/icons?i=python,typescript,react,php,laravel,ruby,rails,swift,c,html,css,bootstrap,mui,docker,git,github,githubactions,vercel,heroku,vscode&perline=10">
   </a>
 </p>
 
