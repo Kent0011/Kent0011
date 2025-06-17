@@ -1,12 +1,8 @@
 # 💎 Welcome to My Profile 💎
 ## 📊 Summary
 <p align="left">
-  <a href="https://github.com/Kent0011/Kent0011">
     <img src="https://komarev.com/ghpvc/?username=Kent0011" alt="Kent0011"/>
-  </a>
-  <a href="https://atcoder.jp/users/KentoYamamoto">
     <img alt="my_atcoder_rating" src="https://badgen.org/img/atcoder/KentoYamamoto/rating/algorithm?style=flat">
-  </a>
 </p>
 <p align="left"> 
   <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kent0011&layout=compact" />
