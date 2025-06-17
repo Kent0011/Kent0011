@@ -4,7 +4,7 @@
   <a href="https://github.com/Kent0011/Kent0011">
     <img src="https://komarev.com/ghpvc/?username=Kent0011" alt="Kent0011"/>
   </a>
-  <a href="https://atcoder.jp/KentoYamamoto">
+  <a href="https://atcoder.jp/users/KentoYamamoto">
     <img alt="my_atcoder_rating" src="https://badgen.org/img/atcoder/KentoYamamoto/rating/algorithm?style=flat">
   </a>
 </p>
