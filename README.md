@@ -19,4 +19,3 @@
 
 ## 📨 Contact
 E-mail : key7135g@gmail.com  
-X : @kent_0011
