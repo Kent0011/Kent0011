@@ -6,7 +6,7 @@
 </p>
 <p align="left"> 
   <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kent0011&layout=compact" />
-  <img alt="github stats" height="160px" src="https://my-readme-status-six.vercel.app/api?username=Kent0011&count_private=true&hide=stars&show_icons=true" />
+  <img alt="github stats" height="160px" src="https://my-readme-status-six.vercel.app/api?username=Kent0011&count_private=true&hide=stars&show_icons=true&custom_title=Kent0011's+GitHub+Status" />
 </p>
 
 
