@@ -1,4 +1,3 @@
-# 💎 Welcome to My Profile 💎
 ## 📊 Summary
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Kent0011" alt="Kent0011"/>
