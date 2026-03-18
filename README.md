@@ -4,7 +4,7 @@
     <img alt="my_atcoder_rating" src="https://badgen.org/img/atcoder/KentoYamamoto/rating/algorithm?style=flat">
 </p>
 <p align="left"> 
-  <img alt="github stats" height="160px" src="https://my-readme-status-six.vercel.app/api?username=Kent0011&count_private=true&hide=stars&show_icons=true&custom_title=Kent0011's+GitHub+Status" />
+  <img alt="github stats" height="160px" src="https://my-readme-status-six.vercel.app/api?username=Kent0011&count_private=true&show_icons=true&custom_title=Kent0011's+GitHub+Status" />
 </p>
 
 
